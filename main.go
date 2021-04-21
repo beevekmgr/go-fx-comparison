@@ -1,9 +1,8 @@
 package main
 
 import (
+	"GoFxvsNon/server"
 	"net/http"
-
-	"github.com/beevekmgr/go-fx-comparison/server"
 )
 
 func main() {
